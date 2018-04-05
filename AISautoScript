@@ -77,7 +77,7 @@ echo 'echo -e "\e[94m#   restart    ----    Restart Services          #"' >> .ba
 echo 'echo -e "\e[94m#   reboot     ----    Reboot VPS                #"' >> .bashrc
 echo 'echo -e "\e[94m#   speedtest  ----    Speedtest VPS             #"' >> .bashrc
 echo 'echo -e "\e[94m#   info       ----    System Information        #"' >> .bashrc
-echo 'echo -e "\e[94m#   about      ----    AISautoScript Info    #"' >> .bashrc
+echo 'echo -e "\e[94m#   about      ----    AISautoScript Info        #"' >> .bashrc
 echo 'echo -e "\e[94m#   exit       ----    Close Putty / JuiceSSH    #"' >> .bashrc
 echo 'echo -e "\e[94m#                                                #"' >> .bashrc
 echo 'echo -e "\e[94m##################################################"' >> .bashrc
